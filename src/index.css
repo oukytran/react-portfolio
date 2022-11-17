@@ -19,7 +19,7 @@ ul {
 }
 
 .btn {
-  position: relative;
+  position: relative; 
 	background-color:#ffec64;
 	border:1px solid #fff;
 	cursor:pointer;
