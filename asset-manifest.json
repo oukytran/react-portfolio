@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.7e307cfc.css",
+    "main.js": "/react-portfolio/static/js/main.222f5ce8.js",
+    "static/media/sadahru.png": "/react-portfolio/static/media/sadahru.13f4ba3293121d6e29d0.png",
+    "static/media/bojji.jpg": "/react-portfolio/static/media/bojji.6cb87c978b299988f82d.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.7e307cfc.css.map": "/react-portfolio/static/css/main.7e307cfc.css.map",
+    "main.222f5ce8.js.map": "/react-portfolio/static/js/main.222f5ce8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e307cfc.css",
+    "static/js/main.222f5ce8.js"
+  ]
+}
