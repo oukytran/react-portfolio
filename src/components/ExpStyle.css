@@ -1,0 +1,8 @@
+.experience{
+    background-color: rgba(80, 80, 80, 0.5);
+}
+@media screen and (max-width: 640px){
+    .experience{
+        grid-template-columns: 1fr;
+    }
+}
